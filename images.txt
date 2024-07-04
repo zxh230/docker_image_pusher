@@ -1,1 +1,1 @@
-redis
+controller:v1.8.0
