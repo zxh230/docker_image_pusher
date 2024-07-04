@@ -1,1 +1,14 @@
-kube-webhook-certgen
+nginx:1.20
+nginx:1.22
+nginx:latest
+mysql:8.0
+grafana/grafana:latest
+prom/node-exporter:latest
+prom/prometheus:latest
+php:8-apache
+registry.k8s.io/metrics-server/metrics-server:v0.6.3
+gcr.io/cadvisor/cadvisor:v0.47.0
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
+registry.k8s.io/ingress-nginx/controller:v1.8.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
