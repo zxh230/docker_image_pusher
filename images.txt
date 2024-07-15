@@ -4,9 +4,9 @@ nginx:1.24
 nginx:1.22
 nginx:latest
 mysql:8.0
-grafana/grafana:latest
-prom/node-exporter:latest
-prom/prometheus:latest
+grafana/grafana:11.0.0
+prom/node-exporter:v1.8.1
+prom/prometheus:v2.53.0
 php:8-apache
 registry.k8s.io/metrics-server/metrics-server:v0.6.3
 gcr.io/cadvisor/cadvisor:v0.47.0
