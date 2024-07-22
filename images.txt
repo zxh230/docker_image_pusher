@@ -17,7 +17,7 @@ kube-webhook-certgen:v20230407
 cadvisor:v0.49.2
 metrics-server:v0.7.1
 kube-webhook-certgen:v1.4.1
-controller:v1.10.1
+registry.k8s.io/ingress-nginx/controller:v1.10.1
 grafana：10.0.9
 node-exporter：v1.81
 prometheus：2.53.0
